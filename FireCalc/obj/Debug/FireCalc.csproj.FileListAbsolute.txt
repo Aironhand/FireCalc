@@ -1,0 +1,9 @@
+D:\Programming\FireCalc\FireCalc\bin\Debug\FireCalc.exe.config
+D:\Programming\FireCalc\FireCalc\bin\Debug\FireCalc.exe
+D:\Programming\FireCalc\FireCalc\bin\Debug\FireCalc.pdb
+D:\Programming\FireCalc\FireCalc\obj\Debug\FireCalc.csprojResolveAssemblyReference.cache
+D:\Programming\FireCalc\FireCalc\obj\Debug\FireCalc.Properties.Resources.resources
+D:\Programming\FireCalc\FireCalc\obj\Debug\FireCalc.csproj.GenerateResource.Cache
+D:\Programming\FireCalc\FireCalc\obj\Debug\FireCalc.exe
+D:\Programming\FireCalc\FireCalc\obj\Debug\FireCalc.pdb
+D:\Programming\FireCalc\FireCalc\obj\Debug\FireCalc.Form1.resources
